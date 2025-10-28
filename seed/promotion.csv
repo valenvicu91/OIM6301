@@ -1,0 +1,11 @@
+promotion_id,campaign_name,discount_type,discount_value,start_date,end_date,coupon_code
+1,New Customer,free_item,5,1/22/2024,8/6/2024,77771TDD
+2,Buy One Get One,free_item,18,5/7/2024,4/24/2024,AMRM8BQZ
+3,Buy One Get One,percent,25,7/31/2024,6/27/2024,U51N2VS9
+4,New Customer,free_item,23,5/20/2024,1/30/2025,K276P65T
+5,Student Discount,percent,10,4/7/2024,7/19/2024,N9JMK2VP
+6,New Customer,percent,8,7/15/2024,3/29/2025,P4528E4H
+7,Loyalty Bonus,fixed_amount,8,1/24/2024,4/3/2024,W762Q702
+8,New Customer,fixed_amount,10,4/9/2024,6/11/2024,F0JFP5EU
+9,Student Discount,fixed_amount,17,1/13/2024,8/5/2024,9980C35D
+10,Buy One Get One,fixed_amount,9,6/18/2024,3/11/2025,9383H3ZJ

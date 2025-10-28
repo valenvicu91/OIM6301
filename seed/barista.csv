@@ -1,0 +1,11 @@
+barista_id,first_name,last_name,hire_date,is_active,years_experience,specialty
+1,Amitie,Gurge,2/2/2020,true,8,Latte Art
+2,Tye,Hardinge,1/28/2018,true,1,Latte Art
+3,Nessi,Bunhill,6/28/2019,true,1,Latte Art
+4,Pinchas,Meynell,1/18/2021,true,8,Espresso
+5,Angelita,Kays,10/26/2018,true,5,Baking
+6,Helena,Hiseman,7/28/2020,true,7,Espresso
+7,Tina,Fleeming,12/19/2022,true,8,Latte Art
+8,Neddy,Jenkerson,2/7/2022,true,7,Training
+9,Luke,Rue,1/26/2020,true,6,Espresso
+10,Wildon,Landes,1/16/2022,true,7,Baking

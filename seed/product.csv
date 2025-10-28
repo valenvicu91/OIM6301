@@ -1,0 +1,26 @@
+product_id,product_name,category,size,price,cost,is_available
+1,Fruit Cup,food,,4.25,2.3,TRUE
+2,Lemonade,drink,medium,3.75,2.1,TRUE
+3,Cold Brew,drink,medium,5.75,3.2,TRUE
+4,Latte,drink,large,6.25,3.75,TRUE
+5,Americano,drink,medium,4.25,2.4,TRUE
+6,Matcha Latte,drink,large,6.75,3.9,TRUE
+7,Latte,drink,small,4.25,2.45,TRUE
+8,Matcha Latte,drink,large,6.75,3.9,TRUE
+9,Bottled Water,drink,regular,2.25,1,TRUE
+10,Granola Bar,food,,3,1.6,TRUE
+11,Cappuccino,drink,large,6,3.5,TRUE
+12,Yogurt Parfait,food,,4.5,2.5,TRUE
+13,Blueberry Muffin,food,,3.25,1.6,TRUE
+14,Breakfast Sandwich,food,,5.75,3.2,TRUE
+15,Avocado Toast,food,,5.5,3.1,TRUE
+16,Banana Bread,food,,3.5,1.8,TRUE
+17,Cappuccino,drink,large,6,3.5,TRUE
+18,Cappuccino,drink,large,6,3.5,TRUE
+19,Matcha Latte,drink,medium,5.75,3.25,TRUE
+20,Hot Chocolate,drink,large,5.75,3.3,TRUE
+21,Banana Bread,food,,3.5,1.8,TRUE
+22,Hot Chocolate,drink,large,5.75,3.3,TRUE
+23,Yogurt Parfait,food,,4.5,2.5,TRUE
+24,Matcha Latte,drink,small,4.75,2.6,TRUE
+25,Hot Chocolate,drink,large,5.75,3.3,TRUE
